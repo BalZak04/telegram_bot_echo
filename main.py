@@ -2,7 +2,7 @@ from telegram.ext import MessageHandler, Filters, Updater
 from telegram.ext import CommandHandler
 
 
-token = '5622593689:AAHvAPVYmpXVv3LOic-FWuQs33Te-mFiMG4'
+token = 'toke'
 
 
 def echo(update, conext):
